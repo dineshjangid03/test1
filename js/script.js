@@ -85,7 +85,7 @@ var tree={
     
     VedJi : {value : "VedJi", parent : "ChimanJi"},
     ChetanJi : {value : "ChetanJi", parent : "ChimanJi"},
-    NarpatJi : {value : "NarpatJi", parent : "ChimanJi"},
+    NarpatJic : {value : "NarpatJi", parent : "ChimanJi"},
     RevantJi : {value : "RevantJi", parent : "ChimanJi"},
 
     AambJi : {value : "AambJi", parent : "KonJi"},
@@ -95,7 +95,7 @@ var tree={
     GomJi : {value : "GomJi", parent : "PurJi"},
     AmedJi : {value : "AmedJi", parent : "PurJi"},
     PrahladJi : {value : "PrahladJi", parent : "PurJi"},
-    BhanvarJi : {value : "BhanvarJi", parent : "PurJi"},
+    BhanvarJip : {value : "BhanvarJi", parent : "PurJi"},
 
     AmuJi : {value : "AmuJi", parent : "BhurJi"},
     SagtaJi : {value : "SagtaJi", parent : "BhurJi"},
