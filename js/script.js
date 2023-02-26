@@ -20,12 +20,12 @@ var tree={
     MaghoJi : {value : "MaghoJi", parent : "MaloJi"},
     KhinyoJi : {value : "KhinyoJi", parent : "MaloJi"},
 
+    DhanJi : {value : "DhanJi", parent : "ChenoJi"},
+    KaranJi : {value : "KaranJi", parent : "ChenoJi"},
     VishanJi : {value : "VishanJi", parent : "ChenoJi"},
     RatanJi : {value : "RatanJi", parent : "ChenoJi"},
     JaloJi : {value : "JaloJi", parent : "ChenoJi"},
     PonchoJi : {value : "PonchoJi", parent : "ChenoJi"},
-    DhanJi : {value : "DhanJi", parent : "ChenoJi"},
-    KaranJi : {value : "KaranJi", parent : "ChenoJi"},
 
     KishturJi : {value : "KishturJi", parent : "SongoJi"},
     BhagwanJi : {value : "BhagwanJi", parent : "SongoJi"},
@@ -50,6 +50,9 @@ var tree={
     PurJi : {value : "PurJi", parent : "VirmoJi"},
     BhurJi : {value : "BhurJi", parent : "VirmoJi"},
     KabirJi : {value : "KabirJi", parent : "VirmoJi"},
+    
+    PanJi : {value : "PanJi", parent : "KoshaloJi"},
+    BhagtoJi : {value : "BhagtoJi", parent : "KoshaloJi"},
 
     KhetoJi : {value : "KhetoJi", parent : "VirdhoJi"},
 
@@ -105,12 +108,22 @@ var tree={
     GomJik : {value : "GomJi", parent : "KabirJi"},
     DurgJi : {value : "DurgJi", parent : "KabirJi"},
 
+    AshuJip : {value : "AshuJi", parent : "PanJi"},
+    LakhJi : {value : "LakhJi", parent : "PanJi"},
+    AambJip : {value : "AambJi", parent : "PanJi"},
+    TejoJi : {value : "TejoJi", parent : "PanJi"},
+    GomJip : {value : "GomJi", parent : "PanJi"},
+    
+    AmedoJi : {value : "AmedoJi", parent : "BhagtoJi"},
+    KalJi : {value : "KalJi", parent : "BhagtoJi"},
+    RoopJib : {value : "RoopJi", parent : "BhagtoJi"},
+
     SukhJi : {value : "SukhJi", parent : "KhetoJi"},
     
     GomJil : {value : "GomJi", parent : "LabhuJi"},
     RupJil : {value : "RupJi", parent : "LabhuJi"},
-    SogJi : {value : "SogJi", parent : "LabhuJi"},
     UdJil : {value : "UdJi", parent : "LabhuJi"},
+    SogJi : {value : "SogJi", parent : "LabhuJi"},
     
 };
   
